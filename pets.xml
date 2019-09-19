@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<company>
+	<category name="Dogs">
+		<breed>Pomeranian</breed>
+		<owner></owner>
+		<email></email>
+		<pet_age></pet_age>
+		<pet_price></pet_price>
+		<city></city>
+		<country></country>
+		<dog_food></dog_food>
+		<pet_money></pet_money>
+		<breed>Rottweiler</breed>
+		<owner></owner>
+		<email></email>
+		<pet_age></pet_age>
+		<pet_price></pet_price>
+		<city></city>
+		<country></country>
+		<dog_food></dog_food>
+		<pet_money></pet_money>
+		<breed>Pitbulls</breed>
+		<owner></owner>
+		<email></email>
+		<pet_age></pet_age>
+		<pet_price></pet_price>
+		<city></city>
+		<country></country>
+		<dog_food></dog_food>
+		<pet_money></pet_money>
+	</category>
+</company> 
